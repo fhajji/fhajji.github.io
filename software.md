@@ -43,8 +43,13 @@ A nice `ffmpeg` front-end for filmmakers is ShutterEncoder:
 
 ### VST (Virtual Instruments)
 
+* [Decent Sampler](https://www.decentsamples.com/product/decent-sampler-plugin/)
 * [Surge-XT](https://surge-synthesizer.github.io/), GitHub [surge-synthesizer/releases-xt](https://github.com/surge-synthesizer/releases-xt/releases)
 * [VCV Rack 2 Pro](https://vcvrack.com/Rack) (only Pro). VCV Rack 2 Free, GitHub [VCVRack/Rack](https://github.com/VCVRack/Rack) can't be used as a VST.
+  + [VCV Library](https://library.vcvrack.com/)
+  + All open-source third-party modules have their [own external repositories](https://github.com/VCVRack/library/tree/v2/repos)
+  + [Surge-XT Modules](https://surge-synthesizer.github.io/rack_xt_manual/), GitHub [surge-synthesizer/surge-rack](https://github.com/surge-synthesizer/surge-rack)
+* [Cardinal](https://cardinal.kx.studio/), GitHub [DISTRHO/Cardinal](https://github.com/DISTRHO/Cardinal)
 
 ### Utilities
 
