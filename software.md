@@ -2,9 +2,9 @@
 
 ## Main tools
 
-* [DaVinci Resolve Studio 19](https://www.blackmagicdesign.com/products/davinciresolve/studio), [Fusion 19](https://www.blackmagicdesign.com/products/fusion)
-* [Unreal Engine 5](https://www.unrealengine.com/en-US/download)
-* [Blender 3D](https://www.blender.org/download/)
+* <a href="https://www.blackmagicdesign.com/products/davinciresolve/studio" target="_blank">DaVinci Resolve Studio 19</a>, <a href="https://www.blackmagicdesign.com/products/fusion" target="_blank">Fusion 19</a>
+* <a href="https://www.unrealengine.com/en-US/download" target="_blank">Unreal Engine 5</a>
+* <a href="https://www.blender.org/download/" target="_blank">Blender 3D</a>
 
 ## Modeling
 
