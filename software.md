@@ -50,6 +50,7 @@ A nice `ffmpeg` front-end for filmmakers is ShutterEncoder:
   + All open-source third-party modules have their [own external repositories](https://github.com/VCVRack/library/tree/v2/repos)
   + [Surge-XT Modules](https://surge-synthesizer.github.io/rack_xt_manual/), GitHub [surge-synthesizer/surge-rack](https://github.com/surge-synthesizer/surge-rack)
 * [Cardinal](https://cardinal.kx.studio/), GitHub [DISTRHO/Cardinal](https://github.com/DISTRHO/Cardinal)
+* [Plugdata](https://plugdata.org/), GitHub [plugdata-team/plugdata](https://github.com/plugdata-team/plugdata)
 
 ### Utilities
 
