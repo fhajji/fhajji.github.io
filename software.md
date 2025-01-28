@@ -8,6 +8,11 @@
 
 ## Modeling
 
+### ArchViz
+
+* <a href="https://bonsaibim.org/" target="_blank">Bonsai BIM</a>, a Blender <a href="https://extensions.blender.org/add-ons/bonsai/" target="_blank">add-on</a> for Architecture modelling using the BIM framework. <a href="https://docs.bonsaibim.org/" target="_blank">Documentation</a>.
+* <a href="https://www.freecad.org/" target="_blank">FreeCAD</a>, using its <a href="https://wiki.freecad.org/BIM_Workbench" target="_blank">BIM Workbench</a>.
+
 ### Photogrammetry
 
 * <a href="https://www.capturingreality.com/" target="_blank">RealityCapture</a>
