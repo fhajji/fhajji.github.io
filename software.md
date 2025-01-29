@@ -30,7 +30,7 @@ SwitchLight Studio is probably based on publicly availabe PBR models like:
 * <a href="https://github.com/DepthAnything/Depth-Anything-V2" target="_blank">Depth-Anything V2</a>
 * <a href="https://github.com/lllyasviel/IC-Light" target="_blank">IC-Light</a>
 * <a href="https://github.com/astra-vision/MaterialPalette" target="_blank">MaterialPalette</a>
-* <a href="https://armorpaint.org/" target="_blank">ArmorPaint</a>, <a href="https://github.com/armory3d/armortools" target="_blank">armortools]</a> on GitHub.
+* <a href="https://armorpaint.org/" target="_blank">ArmorPaint</a>, GitHub <a href="https://github.com/armory3d/armortools" target="_blank">armortools</a>
 
 ## Video
 
@@ -41,9 +41,9 @@ A nice `ffmpeg` front-end for filmmakers is ShutterEncoder:
 
 ### DAWs (Digital Audio Workstations)
 
-* <a href="https://www.steinberg.net/cubase/" target="_blank">[Cubase]()</a>
-* <a href="https://www.ableton.com/en/live/" target="_blank">[Ableton Live]()</a>
-* <a href="https://www.tracktion.com/products/waveform-free" target="_blank">[Tracktion Waveform]()</a>
+* <a href="https://www.steinberg.net/cubase/" target="_blank">Cubase</a>
+* <a href="https://www.ableton.com/en/live/" target="_blank">Ableton Live</a>
+* <a href="https://www.tracktion.com/products/waveform-free" target="_blank">Tracktion Waveform</a>
 * <a href="https://www.bespokesynth.com/" target="_blank">BespokeSynth</a>, GitHub <a href="https://github.com/BespokeSynth/BespokeSynth" target="_blank">BespokeSynth/BespokeSynth</a>
 
 ### VST (Virtual Instruments)
