@@ -61,6 +61,18 @@ A nice `ffmpeg` front-end for filmmakers is ShutterEncoder:
 
 * <a href="https://ultimatevocalremover.com/" target="_blank">Ultimate Vocal Remover UVR5</a>, GitHub <a href="https://github.com/Anjok07/ultimatevocalremovergui" target="_blank">Anjok07/ultimatevocalremovergui</a>
 
+## AI
+
+### ComfyUI
+
+* <a href="https://github.com/comfyanonymous/ComfyUI" target="_blank">ComfyUI</a>
+* <a href="https://github.com/ltdrdata/ComfyUI-Manager" target="_blank">ComfyUI-Manager</a>
+
+### Image Generation
+
+* <a href="https://huggingface.co/black-forest-labs" target="_blank">FLUX from Black Forest Labs</a>
+* How to use <a href="https://comfyanonymous.github.io/ComfyUI_examples/flux/" target="_blank">FLUX in ComfyUI</a>
+
 ## Streaming
 
 * <a href="https://obsproject.com/" target="_blank">OBS Studio</a>
